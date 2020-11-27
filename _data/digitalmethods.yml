@@ -1,10 +1,3 @@
-- project_url: 'https://github.com/DocNow/hydrator'
-  code_url: 'https://github.com/DocNow/hydrator'
-  name: 'Hydrator'
-  description: 'Electron based desktop application for hydrating Twitter ID datasets'
-  category_id: '1'
-  category_label: 'Data collection'
-
 - project_url: 'https://auth.issuecrawler.net/'
   code_url: 'https://github.com/digitalmethodsinitiative/dmi-instascraper'
   name: 'DMI Instagram Scraper'
@@ -19,13 +12,6 @@
   category_id: '1'
   category_label: 'Data collection'
 
-- project_url: 'https://github.com/digitalmethodsinitiative/dmi-tcat/wiki/Installation-Guide'
-  code_url: 'https://github.com/digitalmethodsinitiative/dmi-tcat'
-  name: 'DMI TCAT'
-  description: 'Toolset to retrieve and collect tweets from Twitter and to analyze them in various ways'
-  category_id: '1'
-  category_label: 'Data collection'
-
 - project_url: 'https://tools.digitalmethods.net/netvizz/youtube/'
   code_url: 'https://github.com/bernorieder/YouTube-Data-Tools'
   name: 'YouTube Data Tools '
@@ -37,6 +23,20 @@
   code_url: 'https://github.com/bernorieder/TumblrTool'
   name: 'Tumblr Tool'
   description: 'Script that extracts data from tumblr to create co-tag networks and tabular post stats'
+  category_id: '1'
+  category_label: 'Data collection'
+
+- project_url: 'https://github.com/DocNow/hydrator'
+  code_url: 'https://github.com/DocNow/hydrator'
+  name: 'Hydrator'
+  description: 'Electron based desktop application for hydrating Twitter ID datasets'
+  category_id: '1'
+  category_label: 'Data collection'
+
+- project_url: 'https://github.com/digitalmethodsinitiative/dmi-tcat/wiki/Installation-Guide'
+  code_url: 'https://github.com/digitalmethodsinitiative/dmi-tcat'
+  name: 'DMI TCAT'
+  description: 'Toolset to retrieve and collect tweets from Twitter and to analyze them in various ways'
   category_id: '1'
   category_label: 'Data collection'
 

@@ -46,4 +46,55 @@
 - name: 'ODI Fridays'
   type: 'Weekly lectures series'
   description: 'Weekly lectures with a range of ODI and guest speakers exploring a broad range of data related topics.'
-  url: 'https://theodi.org/event_series/odi-fridays-a-free-curated-set-of-live-talks-on-data/' 
+  url: 'https://theodi.org/event_series/odi-fridays-a-free-curated-set-of-live-talks-on-data/'
+
+- name: 'Art-tech collaborations : best practices'
+  type: 'Webinar'
+  description: 'This webinar takes a practical approach to understand the success factor for art-tech collaborations. It gives leads to efficiently start a co-creation process involving artists and startups. Collaboration rules, co-creation environment, common language, available resources, expectations, here are some things that need to be defined at the beginning of the collaboration and that will be addressed during this webinar.'
+
+- name: 'Public Funding opportunities (+KAILA tool)'
+  type: 'Webinar'
+  description: 'This webinar is about presenting the different opportunities for public funding at the European level and their benefits. It will also include a tool recently launched by ZABALA.KAILA that allows you to identify opportunities for public funding, relevant projects, actors with whom to collaborate, as well as the most important actors in each field, monitor technological trends, individualized advice according to your interests, etc.  Each team that reaches the BUILD phase will be provided with a free license for the entire program.'
+
+- name: 'Social Innovation (SDGs)'
+  type: 'Webinar and Workshop'
+  description: 'This training consists of aligning the business models with the SDGs (Sustainable Development Goals) established by the United Nations and thus establishing a methodology with social impact. Specifically, it will explain how to define social risks based on the business model and implement actions to avoid them. This training will be composed by a webinar where the theoretical part of the SDGs will be explained and a case study of a technology company that has implemented this methodology. Afterwards, the participants will be encouraged to reflect and apply this to their business models. Later on, a workshop will be organized (if possible physically) to evaluate each practical case and help the teams. '
+
+- name: 'Personal Data Protection '
+  type: 'Training course'
+  description: 'The basics of GDPR and e-privacy directive'
+
+- name: 'Protection of non-personal data in data sharing a legal and ethical perspective '
+  type: 'Training course'
+  description: 'Non-personal data protection in a data sharing world and the ethics of data sharing'
+
+- name: 'Intellectual Property Rights '
+  description: 'Introduction to intellectual property rights : a focus on copyright. Understanding the basic concepts, what are the moral rights and economical rights attached to copyright. Being aware about the exceptions and limitations.'
+
+- name: 'Freedom of expression and right to information explained'
+  type: 'Training course'
+  description: 'Media are often considered by the case-law of the European Court of Human Rights and and the Court of Justice of the European Union as the watchdogs of democracy. Freedom of expression and right to information are two fundamental aspects of the media landscape. This training will aim at providing an explanation of their protection framework on the european stage and their entitlements and limits.'
+
+- name: 'Media Regulation in Europe: from press to broadcast (Part I) '
+  type: 'Training course'
+  description: 'This training will analyse media questions ranging from press regulation, news gathering, sources protection to broadcasting regulation with the AVMS Directive. The importance of media pluraslim and the legal framework atteched to this requirement will be also touched upon. '
+
+- name: 'Media Regulation in Europe: online media platforms (Part II) '
+  type: 'Training course'
+  description: 'In this training module, the following elements will be explained and developped: content moderation, freedom of expression online, what are the rules for tackling illegal content and harmful content on online platform. The question of the intermediary liability will be also a core part of the training and an overview of the main changes brought the latest EU policy and legislative initiatives will be part of the training (DSA, TERREG,...) '
+
+- name: 'Media and the use of technology-led automated decision making : a legal and ethical perspective '
+  type: 'Training course'
+  description: 'The use of AI based tools and software in the media world is developping fastly but what are the legal and ethical rules framing their use? A review of the current and forthcoming legal and policy initiatives on the topic will be presented through 3 axis : Ethics, Intellectual Property and liability.'
+
+- name: 'Data and Narration'
+  type: 'Webinar / Training course'
+  description: 'The course will highlight the importance and value that data today hide and will prepare the participants on the databases to consult and on the software to use, and will provide them with an overview of the main data visualization techniques, to produce quality information and fight disinformation and fake news.'
+
+- name: 'Luiss School Journalism open day '
+  type: 'Webinar'
+  description: 'It will be the Luiss School Journalism open day a moment to spread awareness as well as highlighting the importance of supporting various forms of the fight against disinformation and debunking false news. The event will take place On 3th February 2021, when the school will open its doors, virtually. Students and lecturers will give citizens first-hand information about their personal experiences with the Luiss study programme. After that, the panellists will answer some practical questions. The objective of this meeting, which will bring together experts of diverse fields of study, will be to create an open dialogue about the close relationship between the phenomenon of disinformation and the covid, in the context of the current pandemic.'
+
+- name: 'Media literacy'
+  type: 'Webinar / Training course'
+  description: 'Luiss is working on the organization of a series of workshops, Media Literacy, training sessions and conferences that are directed to a young audience: high school public. The main objective is intended to encourage them to create a critical vision of society and inquire using adequate sources of information. Luiss will present to them some of its big data research tools, as well as, its practical applications.'
